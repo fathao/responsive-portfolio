@@ -243,6 +243,21 @@ input[type=submit] {
   .sidebar {
     max-width: 270px;
   }
+  .portfolio #main-container {
+   width: 70%; 
+  }
+  .portfolio .container{
+    width: 70%;
+  }
+  .portfolio .main-section {
+    width: 57%;
+  }
+  .portfolio .sidebar {
+    width: 40%
+  }
+  .portfolio .work {
+    width:100%;
+  }
 }
 
 @media screen and (max-width: 768px) and (min-width: 641px) {
