@@ -306,5 +306,20 @@ input[type=submit] {
   header{
     position: static;
   }
+  .portfolio .main-container {
+    width: 90%
+    /*clear:both;*/
+  }
+  .portfolio .work {
+    float:none;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .portfolio .sidebar {
+    width: 90%;
+    max-width: 640px;
+    clear: both;
+
+  }
 }
 
