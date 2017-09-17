@@ -288,5 +288,8 @@ input[type=submit] {
     margin-right: auto;
     float: none;
   }
+  header{
+    position: static;
+  }
 }
 
